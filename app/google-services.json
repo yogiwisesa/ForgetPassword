@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1055743496725",
+    "firebase_url": "https://lima-srikandi-22d4e.firebaseio.com",
+    "project_id": "lima-srikandi-22d4e",
+    "storage_bucket": "lima-srikandi-22d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055743496725:android:bd470445cf9a7c31",
+        "android_client_info": {
+          "package_name": "limasrikandiproject.editha.example.com.limasrikandi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055743496725-rosq7mrh3nljj9pkgmldape5vd99ovse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "limasrikandiproject.editha.example.com.limasrikandi",
+            "certificate_hash": "97e7da40716fbfb82104d90214b181e3055be3de"
+          }
+        },
+        {
+          "client_id": "1055743496725-718178tm8hs4p9jjo8vmnpvhgkh9h9ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi7QWZBRy-CLHuIJl4ii08FGywOE4POxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055743496725-718178tm8hs4p9jjo8vmnpvhgkh9h9ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055743496725:android:6a76a2bc266393ec",
+        "android_client_info": {
+          "package_name": "com.yogiw.lupapassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055743496725-jb2jagj91gl39gm8fh0s9m5e9oha929b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yogiw.lupapassword",
+            "certificate_hash": "c29f953ea0244c9023765fc925fdc7a2be25db06"
+          }
+        },
+        {
+          "client_id": "1055743496725-718178tm8hs4p9jjo8vmnpvhgkh9h9ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi7QWZBRy-CLHuIJl4ii08FGywOE4POxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055743496725-718178tm8hs4p9jjo8vmnpvhgkh9h9ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
